@@ -43,7 +43,7 @@ PS：如果没有账号的话，后面会给出注册新 Claude 账号的教程�
 
 ## <a id="方案一给你的claude-账户代充值适合老用户"></a>方案一、给你的Claude 账户代充值（适合老用户）
 
-可以通过  [szmengran](https://www.szmengran.com/claude-subscription) 直接给现有的 Claude 账号代充值。平台支持 **Claude Pro**、**Claude Max 5x** 和 **Claude Max 20x** 三种套餐的代充服务，满足不同使用需求。这样原账号的所有设置和数据都能完整保留，特别适合长期用户。充完之后所有功能都能正常使用，没有任何限制。
+可以通过  [szmengran](https://www.szmengran.com) 直接给现有的 Claude 账号代充值。平台支持 **Claude Pro**、**Claude Max 5x** 和 **Claude Max 20x** 三种套餐的代充服务，满足不同使用需求。这样原账号的所有设置和数据都能完整保留，特别适合长期用户。充完之后所有功能都能正常使用，没有任何限制。
 
 
 
@@ -74,7 +74,7 @@ szmengran 官方提供三种套餐选择，覆盖不同使用场景：
 另外还提供普通账号购买，因为有的用户 Claude 账号不好注册。
 
 
-<p align="center"><a href="https://www.szmengran.com/claude-subscription">立即访问 szmengran 官网</a></p>
+<p align="center"><a href="https://www.szmengran.com">立即访问 szmengran 官网</a></p>
 
 
 
@@ -84,7 +84,7 @@ szmengran 官方提供三种套餐选择，覆盖不同使用场景：
 
 整套流程走下来，新手容易卡在某个环节。所以很多人干脆直接买个 Claude 成品号，省得麻烦。
 
-但买号这事也有风险。现在市面上卖 Claude 账号的商家鱼龙混杂，不少是个人或小团队运营，价格乱开，账号稳不稳定全凭运气，甚至还有收了钱不发货的。对比下来，**<a href="https://www.szmengran.com/claude-subscription">szmengran</a>** 这种专业平台要靠谱得多——有完整的客服和售后体系，起码不用担心跑路问题。
+但买号这事也有风险。现在市面上卖 Claude 账号的商家鱼龙混杂，不少是个人或小团队运营，价格乱开，账号稳不稳定全凭运气，甚至还有收了钱不发货的。对比下来，**<a href="https://www.szmengran.com">szmengran</a>** 这种专业平台要靠谱得多——有完整的客服和售后体系，起码不用担心跑路问题。
 
 **szmengran 提供三种成品账号套餐：**
 
@@ -94,7 +94,7 @@ szmengran 官方提供三种套餐选择，覆盖不同使用场景：
 
 付款之后，szmengran 会直接给你一个已经升级好的 Claude 独立账号，拿到就能登录用，所有功能都是完整的。平台有 24 小时在线客服，有问题随时能找人。另外，企业批量采购也能走账。
 
-<p align="center"><a href="https://www.szmengran.com/claude-subscription">去 szmengran 看看</a></p>
+<p align="center"><a href="https://www.szmengran.com">去 szmengran 看看</a></p>
 
 
 
@@ -121,9 +121,9 @@ szmengran 官方提供三种套餐选择，覆盖不同使用场景：
 
 想自己注册 Claude 账号？得先搞定三样东西：**Gmail 邮箱**、**国外手机号**、**稳定的翻墙工具**。这三样缺一不可。
 
-PS: 如果自己不想麻烦，也可以考虑直接在 https://www.szmengran.com/claude-subscription 买一个
+PS: 如果自己不想麻烦，也可以考虑直接在 https://www.szmengran.com 买一个
 
-<p align="center"><a href="https://www.szmengran.com/claude-subscription">去 szmengran 看看</a></p>
+<p align="center"><a href="https://www.szmengran.com">去 szmengran 看看</a></p>
 
 
 * **Gmail 邮箱**：没有的话自己注册一个就行，嫌麻烦的话也能找平台买一个（建议是自己注册，这是数字资产）
@@ -170,7 +170,7 @@ PS: 如果自己不想麻烦，也可以考虑直接在 https://www.szmengran.co
 注册完就能正常用了。不过有一点要提醒：我自己注册的第一个号，用了两周就被封了。后来分析应该是 IP 问题。所以如果你奔着长期用，还是建议直接买个美国家宽（谷歌搜索）
 
 账号注册完就能直接用了，基础功能先免费体验着。不过免费版有使用次数限制，而且最新模型用不了。
-如果想解锁 Claude Pro 的全部功能，我个人觉得找 [szmengran](https://www.szmengran.com/claude-subscription)平台代充值最省事，比自己折腾虚拟信用卡省心多了，成功率也高，口碑也不错。
+如果想解锁 Claude Pro 的全部功能，我个人觉得找 [szmengran](https://www.szmengran.com)平台代充值最省事，比自己折腾虚拟信用卡省心多了，成功率也高，口碑也不错。
 
 
 
@@ -227,7 +227,7 @@ PS: 如果自己不想麻烦，也可以考虑直接在 https://www.szmengran.co
 **替代方案三条路**：
 
 1. 买**成品号**：账号+会员打包，拿到手直接用
-2. [最推荐]**代充值**：一键自助充值 [szmengran](https://www.szmengran.com/claude-subscription)
+2. [最推荐]**代充值**：一键自助充值 [szmengran](https://www.szmengran.com)
 3. **合租**：和别人共享一个 Pro 账号，最便宜
 
 **血泪教训**：别浪费时间研究怎么绑国内卡，90% 失败。有那功夫不如直接找平台。
@@ -332,7 +332,7 @@ PS: 如果自己不想麻烦，也可以考虑直接在 https://www.szmengran.co
 - 别在公共 WiFi 或者公司网络登录，IP 池太杂
 - 支付环节是最容易触发风控的，建议直接找代充值，别自己绑卡测试
 
-**我自己踩过的坑**：第一个号注册完 3 天被封，第二个号坚持固定节点，用了 2 个月没事。第三个号用[szmengran](https://www.szmengran.com/claude-subscription)平台代充的，半年了稳如泰山。所以**网络环境和支付方式**这两个关键点把控住，封号概率能降 90%。
+**我自己踩过的坑**：第一个号注册完 3 天被封，第二个号坚持固定节点，用了 2 个月没事。第三个号用[szmengran](https://www.szmengran.com)平台代充的，半年了稳如泰山。所以**网络环境和支付方式**这两个关键点把控住，封号概率能降 90%。
 
 
 
@@ -352,4 +352,4 @@ PS: 如果自己不想麻烦，也可以考虑直接在 https://www.szmengran.co
 
 通过这些方式，即使你没有国外信用卡和海外手机号，也依然能够顺利开通 Claude 会员。平台提供 **Claude Pro**、**Claude Max 5x** 和 **Claude Max 20x** 三种套餐选择，无论是轻度使用、重度编程，还是企业级应用，都能找到合适的方案。无论是写作、编程、科研还是其他专业场景，都能充分发挥 Claude 的强大功能。选择合适的购买方式，不仅能省去注册与支付的繁琐步骤，还能确保账号的安全和稳定使用。
 
-注意：[szmengran](https://www.szmengran.com/claude-subscription) 除了提供 Claude 账号服务（Pro/Max 5x/Max 20x）之外，还提供 ChatGPT Plus 充值、Gemini 等相关 AI 工具服务，有需要的同学也可以前去了解。
+注意：[szmengran](https://www.szmengran.com) 除了提供 Claude 账号服务（Pro/Max 5x/Max 20x）之外，还提供 ChatGPT Plus 充值、Gemini 等相关 AI 工具服务，有需要的同学也可以前去了解。
